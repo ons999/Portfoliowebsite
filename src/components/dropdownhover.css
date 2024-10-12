@@ -1,0 +1,6 @@
+/* styles.css or your main CSS file */
+
+.dropdown-menu .dropdown-item:hover {
+    background-color: #007bff; /* Change to your desired color */
+    color: white; /* Change text color if needed */
+}
